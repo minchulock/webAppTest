@@ -1,5 +1,5 @@
 version: 0.0
 os: linux
 files:
-  - source: /
+  - source: minchulock/webAppTest
     destination: /var/www/html/
